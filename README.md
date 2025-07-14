@@ -19,9 +19,6 @@ A self-hosted **n8n** automation that triggers an email notification every time 
 <img width="909" height="523" alt="image" src="https://github.com/user-attachments/assets/ea7a90e4-c2b8-4a51-88e5-15b420df67f4" />
 <img width="361" height="294" alt="image" src="https://github.com/user-attachments/assets/2bd68f60-dab8-41ff-a6f4-d82edd6fce53" />
 
-
-![form submission email screenshot](https://via.placeholder.com/800x300?text=Email+Notification+Preview)
-
 ---
 
 ## 🛠️ Setup Instructions
