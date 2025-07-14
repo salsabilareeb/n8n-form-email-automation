@@ -25,13 +25,13 @@ A self-hosted **n8n** automation that triggers an email notification every time 
 
 ### 1. Clone the Repository
 
-```bash'''
+```bash```
 git clone https://github.com/salsabilareeb/n8n-form-email-automation.git
 cd n8n-form-email-automation
 
 
 2. **Start the container**
-```bash'''
+```bash```
 docker-compose up -d
 
 ---
