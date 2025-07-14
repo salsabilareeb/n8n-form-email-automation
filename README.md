@@ -28,3 +28,34 @@ A self-hosted **n8n** automation that triggers an email notification every time 
 ```bash
 git clone https://github.com/salsabilareeb/n8n-form-email-automation.git
 cd n8n-form-email-automation
+
+2. **Start the container**
+```bash
+docker-compose up -d
+
+
+---
+
+#### 📄 3. (Optional) Add LICENSE
+- Go to your repo → Click “**Add file**” → “**Create new file**”
+- Name it: `LICENSE`
+- Copy this [MIT License](https://choosealicense.com/licenses/mit/) and paste it
+
+---
+
+### ✅ Final Checklist (Do This Now)
+
+| Task | Status |
+|------|--------|
+| Create Repo | ✅ Done |
+| Add README.md | ✅ Done |
+| Upload docker-compose.yml | ✅ Done |
+| Add image preview | ⬜ *(optional but great)* |
+| Complete README (setup & credits) | ⬜ |
+| Add LICENSE file | ⬜ *(optional)* |
+
+---
+
+Once you fix those two small things (README & preview), let me know — I’ll help you write a **LinkedIn post** that shows it off like a pro.
+
+
